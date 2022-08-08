@@ -11,7 +11,7 @@
 ./vendor/bin/phpunit src/OrderBundle/Test/Validators/NomeDoArquivoDeTeste.php
 ```
 
-### Como nomedar os cenários?
+### Como nomear os cenários?
 As respostas devem conter no nome do cenário:
 - O que está sendo testado?
 - Quais as circunstâncias?
